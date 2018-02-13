@@ -1,0 +1,52 @@
+#caja1{
+	display: block;
+	text-orientation: sideways;
+	text-align: center;
+	position: static;
+}
+#caja2{
+	display: block;
+	background-color: green;
+	height: 50px;
+	width: 1550px;
+	margin: 25px;
+	position: relative;
+
+
+
+}
+#caja3{
+	display: block;
+	background-color: green;	
+	height: 50px;
+	width: 1550px;
+	margin: 25px;
+	position: relative;
+}
+#caja4{
+	display: block;
+	background-color: green;
+	margin: 25px;	
+
+}
+#caja5{
+	display: block;
+	background-color: green;
+
+
+}
+#caja6{
+	display: block;
+	background-color: aqua;	
+	height: 80px;
+	width: 1550px;
+	margin: 25px;
+}
+#caja7{
+	display: block;
+	background-color: green;
+	height: 80px;
+	width: 1550px;
+	margin: 25px;	
+	position: relative;
+}
