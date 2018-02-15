@@ -1,5 +1,12 @@
-  body {
+ 
+    .histor{
+        background-image: url(original.png);
+        background-attachment: fixed;    
+    }
+
+    .home{
         background-image: url(fondo.png);
+        
     }
 
     .panel-transparent {
