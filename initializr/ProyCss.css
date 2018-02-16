@@ -8,21 +8,18 @@
         background-image: url(fondo.png);
         
     }
-
     .panel-transparent {
         background: none;
     }
-
     .panel-transparent .panel-heading{
         background: rgba(12, 130, 136, 0.2)!important;
     }
-
     .panel-transparent .panel-body{
         background: rgba(46, 51, 56, 0.2)!important;
     }
     .p {
-  font-family: fantasy;
-}
+    font-family: fantasy;
+    }
     .news{
         background-image: url(resistance.png);
         background-attachment: fixed;
