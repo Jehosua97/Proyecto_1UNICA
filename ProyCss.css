@@ -1,0 +1,61 @@
+ 
+    .histor{
+        background-image: url(original.png);
+        background-attachment: fixed;    
+    }
+
+    .home{
+        background-image: url(fondo.png);
+        
+    }
+    .panel-transparent {
+        background: none;
+    }
+    .panel-transparent .panel-heading{
+        background: rgba(12, 130, 136, 0.2)!important;
+    }
+    .panel-transparent .panel-body{
+        background: rgba(46, 51, 56, 0.2)!important;
+    }
+    .t1 {
+    color: #b2ff59;
+    font-family: fantasy;
+    font-size: 50px;
+    }
+    .t2{
+        font-family: fantasy;
+        color: #4a148c;
+    }
+    .t3{
+        font-family: fantasy;
+        color: #80deea;
+    }
+    .t5{
+        font-family: fantasy;
+        color: #d50000;
+        font-size: 200px;
+
+    }
+    .t6{
+        font-family: "Times New Roman";
+        font-size: 20px;
+        color: #c6ff00;
+    }
+    .news{
+        background-image: url(resistance.png);
+        background-attachment: fixed;
+    }
+    .n{
+        background-image: url(op.png);
+        background-attachment: fixed;
+    }
+    .Mulmedia{
+        background-image: url(fondom.png);
+        background-attachment: fixed;
+    }
+    .div {
+    opacity: 0.9;
+}
+.st{
+    position: sticky;
+}
